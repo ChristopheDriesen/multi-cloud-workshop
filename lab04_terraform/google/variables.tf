@@ -1,6 +1,6 @@
 # replace the X with your student ID
 variable "studentID" {
-  default = "X"
+  default = "11"
 }
 
 variable "gcp_machine_type" {
